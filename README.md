@@ -52,7 +52,7 @@ Turbo-Typing – Structured, line-by-line message composition optimized for mobi
 🚀 Getting Started
 Prerequisites
 
-Python 3.10+
+Python 3.11+
 
 Android Debug Bridge (ADB) installed and added to PATH
 
@@ -69,7 +69,6 @@ cd YOUR_REPO_NAME
 
 
 Install dependencies:
-
 pip install -r requirements.txt
 
 
@@ -77,10 +76,7 @@ Create a .env file:
 
 GEMINI_API_KEY=your_api_key_here
 
-
-Run the agent:
-
-python main.py
+Run the agent: python main.py
 
 📌 Why DroidRun
 
