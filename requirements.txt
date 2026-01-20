@@ -1,0 +1,3 @@
+droidrun
+google-genai
+python-dotenv
